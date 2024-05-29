@@ -2,4 +2,4 @@
 
 ## UML ábra
 
-![Uml ábra]((image.png) "Uml ábra")
+![alt text]((image-1.png) "Uml ábra")
